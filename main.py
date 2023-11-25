@@ -7,3 +7,4 @@ sum=(apple+grapes)
 print(sum)
 
 print("hi again")
+print("hello andre")
